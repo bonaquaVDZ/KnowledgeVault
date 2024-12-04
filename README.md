@@ -3,7 +3,7 @@ Welcome to my collection of certifications and learning milestones! This space i
 
 # My Certificates
 
-Welcome to my repository of certifications. Below, you can find a brief description of each certificate that I've completed, along with their respective completion dates.
+Welcome to my repository of certifications. Below, you can find a brief description of each certificate that I've completed, along with their respective completion dates. Feel free to explore each certification by clicking on the links provided.
 
 ### Certificates Overview
 > [Blockchain A-Z: Build a Blockchain, a Crypto + ChatGPT Prize](https://www.udemy.com/course/build-your-blockchain-az/) - *In Progress* (2024-2025)
@@ -44,7 +44,7 @@ Welcome to my repository of certifications. Below, you can find a brief descript
 
 🏆 [TestDaF German Language](Certificates/TestDaF-German-Language.pdf) - *Completed* (Apr 26, 2017)
 
-Feel free to explore each certification by clicking on the links provided.
+
 
 
 
