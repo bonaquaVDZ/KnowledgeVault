@@ -6,17 +6,17 @@ Welcome to my collection of certifications and learning milestones! This space i
 Welcome to my repository of certifications. Below, you can find a brief description of each certificate that I've completed, along with their respective completion dates.
 
 ### Certificates Overview
-- [Blockchain A-Z: Build a Blockchain, a Crypto + ChatGPT Prize](https://www.udemy.com/course/build-your-blockchain-az/) - *In Progress* (2024-2025)
+[Blockchain A-Z: Build a Blockchain, a Crypto + ChatGPT Prize](https://www.udemy.com/course/build-your-blockchain-az/) - *In Progress* (2024-2025)
 
-- [Blockchain and Bitcoin Fundamentals](https://www.udemy.com/course/blockchain-and-bitcoin-fundamentals/) - *In Progress* (2024-2025)
+[Blockchain and Bitcoin Fundamentals](https://www.udemy.com/course/blockchain-and-bitcoin-fundamentals/) - *In Progress* (2024-2025)
 
-- 🏆 [Harvard Computer Science 50 Python/C/SQL/CSS/HTML/JavaScript](Certificates/Harvard-ComputerScience50.pdf) - *Complete* (Nov 15, 2024)
+🏆 [Harvard Computer Science 50 Python/C/SQL/CSS/HTML/JavaScript](Certificates/Harvard-ComputerScience50.pdf) - *Complete* (Nov 15, 2024)
 
-- 🏆 [Udemy ITIL Introduction To Service Management](Certificates/Udemy-ITIL-IntroductionToServiceManagement.pdf) - *Complete* (Jan 29, 2023)
+🏆 [Udemy ITIL Introduction To Service Management](Certificates/Udemy-ITIL-IntroductionToServiceManagement.pdf) - *Complete* (Jan 29, 2023)
 
-- 🏆 [Udemy Linux Administration Bootcamp](Certificates/Udemy-LinuxAdministrationBootcamp.pdf) - *Complete* (Feb 21, 2023)
+🏆 [Udemy Linux Administration Bootcamp](Certificates/Udemy-LinuxAdministrationBootcamp.pdf) - *Complete* (Feb 21, 2023)
 
-- 🏆 [Axelos ITIL IT Service Management](Certificates/Axelos-ITIL-ITServiceManagement.pdf) - *Complete* (Feb 3, 2023)
+🏆 [Axelos ITIL IT Service Management](Certificates/Axelos-ITIL-ITServiceManagement.pdf) - *Complete* (Feb 3, 2023)
 
 - [Codecademy Learn Python3](Certificates/Codecademy-LearnPython3.pdf) - *Complete* (Dec 28, 2022)
 
