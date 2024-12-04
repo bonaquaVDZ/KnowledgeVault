@@ -7,39 +7,39 @@ Welcome to my repository of certifications. Below, you can find a brief descript
 
 ### Certificates Overview
 
-- [Axelos-ITIL-ITServiceManagement](Certificates/Axelos-ITIL-ITServiceManagement.pdf) - *Complete* (Dec 3, 2024)
+- [Axelos-ITIL-ITServiceManagement](Certificates/Axelos-ITIL-ITServiceManagement.pdf) - *Complete* (Feb 3, 2023)
 
-- [Codecademy-IntroductionToLinux](Certificates/Codecademy-IntroductionToLinux.pdf) - *Complete* (Dec 3, 2024)
+- [Codecademy-IntroductionToLinux](Certificates/Codecademy-IntroductionToLinux.pdf) - *Complete* (Oct 3, 2022)
 
-- [Codecademy-LearnBashScripting](Certificates/Codecademy-LearnBashScripting.pdf) - *Complete* (Dec 3, 2024)
+- [Codecademy-LearnBashScripting](Certificates/Codecademy-LearnBashScripting.pdf) - *Complete* (Sep 24, 2022)
 
-- [Codecademy-LearnPython3](Certificates/Codecademy-LearnPython3.pdf) - *Complete* (Dec 3, 2024)
+- [Codecademy-LearnPython3](Certificates/Codecademy-LearnPython3.pdf) - *Complete* (Dec 28, 2022)
 
-- [Codecademy-LearnTheCommandLine](Certificates/Codecademy-LearnTheCommandLine.pdf) - *Complete* (Dec 3, 2024)
+- [Codecademy-LearnTheCommandLine](Certificates/Codecademy-LearnTheCommandLine.pdf) - *Complete* (Sep 27, 2022)
 
-- [Codecademy-LinearAlgebraPython](Certificates/Codecademy-LinearAlgebraPython.pdf) - *Complete* (Dec 3, 2024)
+- [Codecademy-LinearAlgebraPython](Certificates/Codecademy-LinearAlgebraPython.pdf) - *Complete* (Oct 11, 2022)
 
-- [Harvard-ComputerScience50](Certificates/Harvard-ComputerScience50.pdf) - *Complete* (Dec 3, 2024)
+- [Harvard-ComputerScience50-Python/C/SQL/CSS/HTML/JavaScript](Certificates/Harvard-ComputerScience50.pdf) - *Complete* (Nov 15, 2024)
 
-- [HarvardX-UsingPythonForResearch](Certificates/HarvardX-UsingPythonForResearch.pdf) - *Complete* (Dec 3, 2024)
+- [HarvardX-UsingPythonForResearch](Certificates/HarvardX-UsingPythonForResearch.pdf) - *Complete* (May 2, 2021)
 
-- [TestDaF-German-Language](Certificates/TestDaF-German-Language.pdf) - *Complete* (Dec 3, 2024)
+- [TestDaF-German-Language](Certificates/TestDaF-German-Language.pdf) - *Complete* (Apr 26, 2017)
 
-- [Udemy-ArtificialIntelligenceEthics](Certificates/Udemy-ArtificialIntelligenceEthics.pdf) - *Complete* (Dec 3, 2024)
+- [Udemy-ArtificialIntelligenceEthics](Certificates/Udemy-ArtificialIntelligenceEthics.pdf) - *Complete* (Aug 8, 2022)
 
-- [Udemy-BashShellScriptingCrashCourse](Certificates/Udemy-BashShellScriptingCrashCourse.pdf) - *Complete* (Dec 3, 2024)
+- [Udemy-BashShellScriptingCrashCourse](Certificates/Udemy-BashShellScriptingCrashCourse.pdf) - *Complete* (Jun 13, 2022)
 
-- [Udemy-DataScience-DatenvorbereitungQualitaetssicherungExcel-DE](Certificates/Udemy-DataScience-DatenvorbereitungQualitaetssicherungExcel-DE.pdf) - *Complete* (Dec 3, 2024)
+- [Udemy-DataScience-DatenvorbereitungQualitaetssicherungExcel-DE](Certificates/Udemy-DataScience-DatenvorbereitungQualitaetssicherungExcel-DE.pdf) - *Complete* (May 18, 2022)
 
-- [Udemy-GitGoingFast](Certificates/Udemy-GitGoingFast.pdf) - *Complete* (Dec 3, 2024)
+- [Udemy-GitGoingFast](Certificates/Udemy-GitGoingFast.pdf) - *Complete* (Feb 13, 2022)
 
-- [Udemy-ITIL-IntroductionToServiceManagement](Certificates/Udemy-ITIL-IntroductionToServiceManagement.pdf) - *Complete* (Dec 3, 2024)
+- [Udemy-ITIL-IntroductionToServiceManagement](Certificates/Udemy-ITIL-IntroductionToServiceManagement.pdf) - *Complete* (Jan 29, 2023)
 
-- [Udemy-LinuxAdministrationBootcamp](Certificates/Udemy-LinuxAdministrationBootcamp.pdf) - *Complete* (Dec 3, 2024)
+- [Udemy-LinuxAdministrationBootcamp](Certificates/Udemy-LinuxAdministrationBootcamp.pdf) - *Complete* (Feb 21, 2023)
 
-- [Udemy-MasterMicrosoftPowerShell](Certificates/Udemy-MasterMicrosoftPowerShell.pdf) - *Complete* (Dec 3, 2024)
+- [Udemy-MasterMicrosoftPowerShell](Certificates/Udemy-MasterMicrosoftPowerShell.pdf) - *Complete* (Feb 9, 2022)
 
-- [Udemy-TheUltimateMySQLBootcamp](Certificates/Udemy-TheUltimateMySQLBootcamp.pdf) - *Complete* (Dec 3, 2024)
+- [Udemy-TheUltimateMySQLBootcamp](Certificates/Udemy-TheUltimateMySQLBootcamp.pdf) - *Complete* (Aug 25, 2022)
 
 Feel free to explore each certification by clicking on the links provided. I'll be attaching the actual PDF files soon.
 
