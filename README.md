@@ -15,7 +15,7 @@ Welcome to my repository of certifications. Below, you can find a brief descript
 
 - [Udemy ITIL Introduction To Service Management](Certificates/Udemy-ITIL-IntroductionToServiceManagement.pdf) - *Complete* (Jan 29, 2023)
 
-- [Udemy-Linux Administration Bootcamp](Certificates/Udemy-LinuxAdministrationBootcamp.pdf) - *Complete* (Feb 21, 2023)
+- [Udemy Linux Administration Bootcamp](Certificates/Udemy-LinuxAdministrationBootcamp.pdf) - *Complete* (Feb 21, 2023)
 
 - [Axelos ITIL IT Service Management](Certificates/Axelos-ITIL-ITServiceManagement.pdf) - *Complete* (Feb 3, 2023)
 
@@ -31,19 +31,19 @@ Welcome to my repository of certifications. Below, you can find a brief descript
   
 - [Udemy The Ultimate MySQL Bootcamp](Certificates/Udemy-TheUltimateMySQLBootcamp.pdf) - *Complete* (Aug 25, 2022)
 
-- [Udemy-ArtificialIntelligenceEthics](Certificates/Udemy-ArtificialIntelligenceEthics.pdf) - *Complete* (Aug 8, 2022)
+- [Udemy Artificial Intelligence Ethics](Certificates/Udemy-ArtificialIntelligenceEthics.pdf) - *Complete* (Aug 8, 2022)
 
-- [Udemy-BashShellScriptingCrashCourse](Certificates/Udemy-BashShellScriptingCrashCourse.pdf) - *Complete* (Jun 13, 2022)
+- [Udemy Bash Shell Scripting Crash Course](Certificates/Udemy-BashShellScriptingCrashCourse.pdf) - *Complete* (Jun 13, 2022)
 
-- [Udemy-DataScience-DatenvorbereitungQualitaetssicherungExcel-DE](Certificates/Udemy-DataScience-DatenvorbereitungQualitaetssicherungExcel-DE.pdf) - *Complete* (May 18, 2022)
+- [Udemy Data Science Datenvorbereitung Qualitaetssicherung Excel-DE](Certificates/Udemy-DataScience-DatenvorbereitungQualitaetssicherungExcel-DE.pdf) - *Complete* (May 18, 2022)
 
-- [Udemy-GitGoingFast](Certificates/Udemy-GitGoingFast.pdf) - *Complete* (Feb 13, 2022)
+- [Udemy Git Going Fast](Certificates/Udemy-GitGoingFast.pdf) - *Complete* (Feb 13, 2022)
 
-- [Udemy-MasterMicrosoftPowerShell](Certificates/Udemy-MasterMicrosoftPowerShell.pdf) - *Complete* (Feb 9, 2022)
+- [Udemy Master Microsoft PowerShell](Certificates/Udemy-MasterMicrosoftPowerShell.pdf) - *Complete* (Feb 9, 2022)
 
-- [HarvardX-UsingPythonForResearch](Certificates/HarvardX-UsingPythonForResearch.pdf) - *Complete* (May 2, 2021)
+- [HarvardX Using Python For Research](Certificates/HarvardX-UsingPythonForResearch.pdf) - *Complete* (May 2, 2021)
 
-- [TestDaF-German-Language](Certificates/TestDaF-German-Language.pdf) - *Complete* (Apr 26, 2017)
+- [TestDaF German Language](Certificates/TestDaF-German-Language.pdf) - *Complete* (Apr 26, 2017)
 
 Feel free to explore each certification by clicking on the links provided. I'll be attaching the actual PDF files soon.
 
