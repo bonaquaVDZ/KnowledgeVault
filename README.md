@@ -7,13 +7,13 @@ Welcome to my repository of certifications. Below, you can find a brief descript
 
 ### Certificates Overview
 
-- [Axelos-ITIL-ITServiceManagement.pdf](Certificates/Axelos-ITIL-ITServiceManagement.pdf) - *Complete* (Dec 3, 2024)
+- [Axelos-ITIL-ITServiceManagement](Certificates/Axelos-ITIL-ITServiceManagement.pdf) - *Complete* (Dec 3, 2024)
 
-- [Codecademy-IntroductionToLinux.pdf](#) - *Complete* (Dec 3, 2024)
+- [Codecademy-IntroductionToLinux.pdf](Certificates/Codecademy-IntroductionToLinux.pdf) - *Complete* (Dec 3, 2024)
 
-- [Codecademy-LearnBashScripting.pdf](#) - *Complete* (Dec 3, 2024)
+- [Codecademy-LearnBashScripting.pdf](Certificates/Codecademy-LearnBashScripting.pdf) - *Complete* (Dec 3, 2024)
 
-- [Codecademy-LearnPython3.pdf](#) - *Complete* (Dec 3, 2024)
+- [Codecademy-LearnPython3.pdf](Certificates/Codecademy-LearnPython3.pdf) - *Complete* (Dec 3, 2024)
 
 - [Codecademy-LearnTheCommandLine.pdf](#) - *Complete* (Dec 3, 2024)
 
