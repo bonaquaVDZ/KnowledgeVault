@@ -6,7 +6,7 @@ Welcome to my collection of certifications and learning milestones! This space i
 Welcome to my repository of certifications. Below, you can find a brief description of each certificate that I've completed, along with their respective completion dates.
 
 ### Certificates Overview
-- [Blockchain A-Z: Build a Blockchain, a Crypto + ChatGPT Prize](https://www.udemy.com/course/build-your-blockchain-az/) - *In Progress* (2024-2025)
+> 🌟 **Highly Recommended:** [Blockchain A-Z: Build a Blockchain, a Crypto + ChatGPT Prize](https://www.udemy.com/course/build-your-blockchain-az/) - *In Progress* (2024-2025)
 
 - [Blockchain and Bitcoin Fundamentals](https://www.udemy.com/course/blockchain-and-bitcoin-fundamentals/) - *In Progress* (2024-2025)
 
