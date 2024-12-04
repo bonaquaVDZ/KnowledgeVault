@@ -47,3 +47,9 @@ Welcome to my repository of certifications. Below, you can find a brief descript
 Feel free to explore each certification by clicking on the links provided.
 
 
+| Certificate Name | Status   | Completion Date  |
+|------------------|----------|------------------|
+| Harvard-CS50     | Complete | Nov 15, 2024     |
+| ITIL             | Complete | Feb 3, 2023      |
+
+
