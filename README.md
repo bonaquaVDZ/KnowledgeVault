@@ -41,6 +41,6 @@ Welcome to my repository of certifications. Below, you can find a brief descript
 
 - [TestDaF German Language](Certificates/TestDaF-German-Language.pdf) - *Complete* (Apr 26, 2017)
 
-Feel free to explore each certification by clicking on the links provided. I'll be attaching the actual PDF files soon.
+Feel free to explore each certification by clicking on the links provided.
 
 
