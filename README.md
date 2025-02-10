@@ -7,7 +7,7 @@ Welcome to my repository of certifications. Below, you can find a brief descript
 
 ### Certificates Overview
 
-🏆 [Harvard Computer Science 50 Python/C/SQL/CSS/HTML/JavaScript](Certificates/Harvard-ComputerScience50.pdf) - *Completed* (Nov 15, 2024)
+🏆 [Harvard Computer Science 50 Python/C language/SQL/CSS/HTML/JavaScript](Certificates/Harvard-ComputerScience50.pdf) - *Completed* (Nov 15, 2024)
 
 🏆 [Udemy ITIL Introduction To Service Management](Certificates/Udemy-ITIL-IntroductionToServiceManagement.pdf) - *Completed* (Jan 29, 2023)
 
