@@ -6,6 +6,7 @@ Welcome to my collection of certifications and learning milestones! This space i
 Welcome to my repository of certifications. Below, you can find a brief description of each certificate that I've completed, along with their respective completion dates. Feel free to explore each certification by clicking on the links provided.
 
 ### Certificates Overview
+   [Deep Learning with PyTorch for Medical Image Analysis] - *Completed* (Dec 10, 2025)
 
 🏆 [Harvard Computer Science 50 Python/C language/SQL/CSS/HTML/JavaScript](Certificates/Harvard-ComputerScience50.pdf) - *Completed* (Nov 15, 2024)
 
